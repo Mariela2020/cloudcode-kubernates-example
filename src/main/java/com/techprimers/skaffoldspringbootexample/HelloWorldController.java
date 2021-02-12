@@ -10,6 +10,6 @@ public class HelloWorldController {
 
     @GetMapping
     public String hello() {
-        return "Hello Youtube docker-destok";
+        return "Hello docker-destok y argocd";
     }
 }
